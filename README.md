@@ -12,3 +12,5 @@ https://pwfoote.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by pwfoote
+
+### ©️2019 Run Buddy, Inc 
