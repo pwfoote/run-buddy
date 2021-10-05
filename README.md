@@ -13,3 +13,7 @@ https://pwfoote.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by pwfoote
 
+<<<<<<< HEAD
+=======
+### ©️2019 Run Buddy, Inc 
+>>>>>>> 0d6d085bca7e1a5e6f254a3ef352941fdc66f3bf
